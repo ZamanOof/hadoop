@@ -107,7 +107,7 @@ cd ~/
 then extract the download hadoop by
 
 ```bash
-tar -xzvf hadoop-3.3.1.tar.gz
+tar -xf hadoop-3.3.1.tar.gz
 ```
 
 move filolder to another directory
