@@ -59,7 +59,7 @@ ssh-keygen -t ed25519
 then authrise access without password for localhost
 
 ```bash
-cat ~/.ssh/id_rsa.pub >> ~/.ssh/authorized_keys
+cat ~/.ssh/id_ed25519.pub >> ~/.ssh/authorized_keys
 ```
 
 let's test it
